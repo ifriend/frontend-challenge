@@ -1,4 +1,7 @@
-# frontend-challenge
+# Instruções gerais
+
+Efetue o fork desse repositório em sua conta github, faça o desafio e crie 
+um pull request para que nossa equipe avalie o desafio feito.
 
 ## Desafio
 
